@@ -25,8 +25,8 @@ I combined 23 Excel tables into one connected data model, then built an interact
 
 ## 🛠️ Tools Used
 
--**Excel:** Raw data source and initial data exploration
--**Power BI:** Data cleaning (Power Query), data modeling (star schema), DAX measures, and dashboard design
+- **Excel:** Raw data source and initial data exploration
+- **Power BI:** Data cleaning (Power Query), data modeling (star schema), DAX measures, and dashboard design
 
 ## 🔄 Project Workflow
 
