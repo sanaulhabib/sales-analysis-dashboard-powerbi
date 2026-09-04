@@ -30,13 +30,13 @@ I combined 23 Excel tables into one connected data model, then built an interact
 
 ## 🔄 Project Workflow
 
-- **Extracted the data** — Imported the messy raw Excel data into Power BI
-- **Cleaned the data** — Used Power Query to fix nulls, remove duplicates, trim extra spaces, fix capitalization, handle errors, and fill missing values
-- **Identified Fact and Dimension tables** — Sorted the tables into facts (transactions) and dimensions (products, customers, dates, etc.)
-- **Connected the tables** — Built relationships between the fact and dimension tables
-- **Built the data model** — Organized everything into a clean star schema
-- **Created measures with DAX** — Wrote DAX calculations for Total Sales, Total Cost, Total Profit, Profit Margin, and other KPIs
-- **Built the dashboard** — Created KPI cards, charts, and filters to show sales, profit, and performance
+- **Extracted the data:** Imported the messy raw Excel data into Power BI
+- **Cleaned the data:** Used Power Query to fix nulls, remove duplicates, trim extra spaces, fix capitalization, handle errors, and fill missing values
+- **Identified Fact and Dimension tables:** Sorted the tables into facts (transactions) and dimensions (products, customers, dates, etc.)
+- **Connected the tables:** Built relationships between the fact and dimension tables
+- **Built the data model:** Organized everything into a clean star schema
+- **Created measures with DAX:** Wrote DAX calculations for Total Sales, Total Cost, Total Profit, Profit Margin, and other KPIs
+- **Built the dashboard:** Created KPI cards, charts, and filters to show sales, profit, and performance
 
 ## 📐 Data Model
 
