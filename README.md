@@ -1,4 +1,4 @@
-# sales-analysis-dashboard-powerbi
+# Sales Analysis Dashboard (Power BI)
 Power BI sales dashboard with KPI cards, trend &amp; regional analysis
 
 ## 📌 Project Overview
