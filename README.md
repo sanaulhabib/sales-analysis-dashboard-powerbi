@@ -5,7 +5,7 @@ Power BI sales dashboard with KPI cards, trend &amp; regional analysis
 
 This project looks at a company's sales data and turns it into an easy-to-read dashboard. The data covers 5 regions, more than 20 product types, and different order channels, over about 20 months (Feb 2025 – Oct 2026).
 
-I cleaned the raw data, organized it properly, and built an interactive Power BI dashboard. The dashboard shows total sales, profit, cost, profit margin, total order, avg. order value, monthly sales trend, sales vs profit by region and how each region, product, channel and segment is performing
+I cleaned the raw data, organized it properly, and built an interactive Power BI dashboard. The dashboard shows total sales, profit, cost, profit margin, total order, avg. order value, monthly sales trend, sales vs profit by region and how each region, product, channel and segment is performing.
 
 
 ## 🖼️ Dashboard Preview
@@ -19,3 +19,16 @@ The company sells in 5 regions and has more than 20 types of products. But the s
 - Which customer segment and sales channels bring in the most money?
 - What are the top 10 products?
 - Who are the top 10 customers?
+
+## 💡 Solution
+I combined 23 Excel tables into one connected data model, then built an interactive Power BI dashboard showing total sales, profit, profit margin,  and region wise performance that can be filter by Region, Category, Channel, Date.
+
+## 🔄 Project Workflow
+
+- **Extracted the data** — Imported the messy raw Excel data into Power BI
+- **Cleaned the data** — Used Power Query to fix nulls, remove duplicates, trim extra spaces, fix capitalization, handle errors, and fill missing values
+- **Identified Fact and Dimension tables** — Sorted the tables into facts (transactions) and dimensions (products, customers, dates, etc.)
+- **Connected the tables** — Built relationships between the fact and dimension tables
+- **Built the data model** — Organized everything into a clean star schema
+- **Created measures with DAX** — Wrote DAX calculations for Total Sales, Total Cost, Total Profit, Profit Margin, and other KPIs
+- **Built the dashboard** — Created KPI cards, charts, and filters to show sales, profit, and performance
