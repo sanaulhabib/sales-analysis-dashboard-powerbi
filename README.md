@@ -23,6 +23,11 @@ The company sells in 5 regions and has more than 20 types of products. But the s
 ## 💡 Solution
 I combined 23 Excel tables into one connected data model, then built an interactive Power BI dashboard showing total sales, profit, profit margin,  and region wise performance that can be filter by Region, Category, Channel and Date.
 
+## 🛠️ Tools Used
+
+**Excel:** Raw data source and initial data exploration
+**Power BI:** Data cleaning (Power Query), data modeling (star schema), DAX measures, and dashboard design
+
 ## 🔄 Project Workflow
 
 - **Extracted the data** — Imported the messy raw Excel data into Power BI
