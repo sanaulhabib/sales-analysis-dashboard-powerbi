@@ -33,6 +33,12 @@ I combined 23 Excel tables into one connected data model, then built an interact
 - **Created measures with DAX** — Wrote DAX calculations for Total Sales, Total Cost, Total Profit, Profit Margin, and other KPIs
 - **Built the dashboard** — Created KPI cards, charts, and filters to show sales, profit, and performance
 
+## 📐 Data Model
+
+Built a star schema in Power BI by connecting fact and dimension tables:
+
+
+
 ## 🔍 Key Insights
 - Total sales is 526.64k with 36.9% profit margin
 - Europe leads in sales (167K) and Latin America is the lowest (41K)
