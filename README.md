@@ -39,3 +39,7 @@ I combined 23 Excel tables into one connected data model, then built an interact
 - Electronics is the highest selling category
 - Team M047 is the highest selling product
 - Summit Commerce is the top customer
+
+## ✅ Recommendations
+- **Invest in Latin America:** Sales is 4x lower than Europe (41K vs. 167K), review marketing and account coverage there
+- **Expand Electronics:** This is the top sales category ($152.7K), increase stock priority 
