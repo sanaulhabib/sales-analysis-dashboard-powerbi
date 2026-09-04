@@ -53,4 +53,6 @@ I combined 23 Excel tables into one connected data model, then built an interact
 3. Use the slicers (Region, Category, Year/Month, Channel) to explore the data interactively
 
 ## 🤝 Contact
-📧 [your.email@example.com] · 🔗 [LinkedIn](https://linkedin.com) · 💻 [GitHub](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaul-habib/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sanaul.habib12@gmail.com)
+
