@@ -32,3 +32,10 @@ I combined 23 Excel tables into one connected data model, then built an interact
 - **Built the data model** — Organized everything into a clean star schema
 - **Created measures with DAX** — Wrote DAX calculations for Total Sales, Total Cost, Total Profit, Profit Margin, and other KPIs
 - **Built the dashboard** — Created KPI cards, charts, and filters to show sales, profit, and performance
+
+## 🔍 Key Insights
+- Total sales is 526.64k with 36.9% profit margin
+- Europe leads in sales ($167K) and Latin America is the lowest ($41K)
+- Electronics is the highest selling category
+- Team M047 is the highest selling product
+- Summit Commerce is the top customer
