@@ -45,3 +45,9 @@ I combined 23 Excel tables into one connected data model, then built an interact
 - **Invest in Latin America:** Sales is 4x lower than Europe (41K vs. 167K), review marketing and account coverage there
 - **Expand Electronics:** This is the top sales category (152.7K), increase stock priority
 - **Protect top customers:** The top 10 customers bring in most of the money, keep them happy with good service or rewards, and try to get more new customers too
+
+## ▶️ How to Explore
+
+1. Download `sales_data_analysis.pbix`
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. Use the slicers (Region, Category, Year/Month, Channel) to explore the data interactively
