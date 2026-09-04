@@ -37,6 +37,7 @@ I combined 23 Excel tables into one connected data model, then built an interact
 
 Built a star schema in Power BI by connecting fact and dimension tables:
 
+<img width="1024" height="545" alt="image" src="https://github.com/user-attachments/assets/46a2a81c-e2b3-4f8a-a054-2497cc8f4ab2" />
 
 
 ## 🔍 Key Insights
