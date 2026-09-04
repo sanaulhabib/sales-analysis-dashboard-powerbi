@@ -46,7 +46,7 @@ Built a star schema in Power BI by connecting fact and dimension tables:
 
 
 ## 🔍 Key Insights
-- Total sales is 526.64k with 36.9% profit margin
+- Total sales is 526.64k with 37% profit margin
 - Europe leads in sales (167K) and Latin America is the lowest (41K)
 - Electronics is the highest selling category
 - Team M047 is the highest selling product
