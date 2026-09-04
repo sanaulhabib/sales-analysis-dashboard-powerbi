@@ -41,7 +41,7 @@ I combined 23 Excel tables into one connected data model, then built an interact
 - Summit Commerce is the top customer
 
 ## ✅ Recommendations
-- **Set realistic sales targets:** Targets are missed almost every month — set targets using real past sales
+- **Set realistic sales target:** Targets are missed almost every month, set targets using real past sales
 - **Invest in Latin America:** Sales is 4x lower than Europe (41K vs. 167K), review marketing and account coverage there
-- **Expand Electronics:** This is the top sales category ($152.7K), increase stock priority
-- **Protect top customers:** The top 10 customers bring in most of the money — keep them happy with good service or rewards, and try to get more new customers too
+- **Expand Electronics:** This is the top sales category (152.7K), increase stock priority
+- **Protect top customers:** The top 10 customers bring in most of the money, keep them happy with good service or rewards, and try to get more new customers too
