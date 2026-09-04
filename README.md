@@ -21,7 +21,7 @@ The company sells in 5 regions and has more than 20 types of products. But the s
 - Who are the top 10 customers?
 
 ## 💡 Solution
-I combined 23 Excel tables into one connected data model, then built an interactive Power BI dashboard showing total sales, profit, profit margin,  and region wise performance that can be filter by Region, Category, Channel, Date.
+I combined 23 Excel tables into one connected data model, then built an interactive Power BI dashboard showing total sales, profit, profit margin,  and region wise performance that can be filter by Region, Category, Channel and Date.
 
 ## 🔄 Project Workflow
 
