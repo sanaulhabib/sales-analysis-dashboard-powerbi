@@ -49,5 +49,5 @@ I combined 23 Excel tables into one connected data model, then built an interact
 ## ▶️ How to Explore
 
 1. Download [sales_data_anaylsis.pbix](03-dashboard-file/sales_data_anaylsis.pbix)
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+2. Open it in Power BI Desktop
 3. Use the slicers (Region, Category, Year/Month, Channel) to explore the data interactively
