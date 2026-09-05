@@ -13,7 +13,7 @@ I cleaned the raw data, organized it properly, and built an interactive Power BI
 
 ## 🎯 Business Problem
 
-The company sells in 5 regions and has more than 20 types of products. But the sales data was spread across different spreadsheets, so it was hard to see the full picture. Management needed to answer some simple business questions :
+The company sells in 5 regions and has more than 20 types of products. But the sales data was spread across different spreadsheets, so it was hard to see the clear view of overall sales performance. Management needed to answer some simple business questions :
 - Is the company reaching its monthly sales target?
 - Which products and regions have the highest sales?
 - Which customer segment and sales channels bring in the most money?
